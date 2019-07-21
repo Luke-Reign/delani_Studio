@@ -38,3 +38,7 @@ textarea{
 .card-footer{
     text-align: center;
 }
+#p-design,#p-development,#p-management{
+    display: none;
+    text-align: center;
+}
