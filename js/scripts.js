@@ -28,4 +28,9 @@ $(document).ready(function(){
         $("#p-management").hide();
         $("#management-img").show();
     });
+    $("form#contactUs").submit(function(event){
+        var nameInput=$("input#name");
+        var emailInput=$("input#email");
+        alert("We have received your message! Thank you for reaching out to us.");
+    })
 });
