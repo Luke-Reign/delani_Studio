@@ -1,5 +1,5 @@
 # DELANI STUDIO
-Know the day you were born, Know your Akan Name!
+Where amazing people are making amazing designs in a fun environment.
 
 ## Table of Contents
 * [General information](#general-information)
@@ -11,7 +11,7 @@ Know the day you were born, Know your Akan Name!
 * [Licence](#licence)
 
 ## General Information
-Delani Studio is a studio by itself, where amazing people are making amazing designs in a fun environment.We have majored on design, development and product design. All you want to know about us is in our live site : https://kibiku3.github.io/delani_Studio/
+Delani Studio is a studio by itself, where amazing people are making amazing designs in a fun environment.We have majored on design, development and product design. All you want to know about us is in our live site : https://luke-reign.github.io/delani_Studio/
 
 ## Technologies Used
 Delani Studio is created with:
@@ -29,7 +29,7 @@ To setup follow these steps:
 
 ## Demo
 Here is a working live demo of Delani Studio:
-https://kibiku3.github.io/delani_Studio/
+https://luke-reign.github.io/delani_Studio/
 
 ## Contributions
 want to contribute? Great!
@@ -44,7 +44,7 @@ To fix a bug or enhance an existing module, follow these steps:
 * Create a Pull Request
 
 ## Authors Information
-* Samuel Kibiku
+* Luke Samuel Kibiku
 contact: lkibiku@gmail.com
 
 ## Licence
