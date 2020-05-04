@@ -43,7 +43,7 @@ To fix a bug or enhance an existing module, follow these steps:
 * Push to the branch (git push origin improve)
 * Create a Pull Request
 
-## Authors Information
+## Author's Information
 * Luke Samuel Kibiku
 contact: lkibiku@gmail.com
 
